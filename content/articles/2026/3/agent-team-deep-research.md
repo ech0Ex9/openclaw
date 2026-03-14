@@ -1,4 +1,4 @@
-# 公众号文章 - Agent 团队搭好了，怎么让它更好用？
+# 公众号文章 - OpenClaw Agent 团队搭好了，然后呢？一次 Deep Research 的认知升级
 
 ### 引言
 
